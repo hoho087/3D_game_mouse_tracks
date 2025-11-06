@@ -1,5 +1,5 @@
 # 3D_game_mouse_tracks
-嘗試用光流法還原3D遊戲滑鼠軌跡
+嘗試用光流法還原3D遊戲滑鼠軌跡(也許未來有用)
 
 用這個overlay是因為要SetWindowDisplayAffinity 0x11
 防止影響到識別結果
